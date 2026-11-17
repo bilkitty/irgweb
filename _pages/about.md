@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Welcome to IRG!
 
 profile:
   align: right
@@ -26,7 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Welcome to the Interactive Robotics Group!
 
 In everyday settings, from factories to hospitals, it is increasingly common to see robots working alongside people. But because robots lack the intelligence to accommodate their more dynamic human partners, robots and humans work independently.  In nearly every industry, the “either/or” tasking of people and robots results in massive inefficiency in producing goods and services.
 
