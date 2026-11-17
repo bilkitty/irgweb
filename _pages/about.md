@@ -26,9 +26,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Welcome to the Interactive Robotics Group!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+In everyday settings, from factories to hospitals, it is increasingly common to see robots working alongside people. But because robots lack the intelligence to accommodate their more dynamic human partners, robots and humans work independently.  In nearly every industry, the “either/or” tasking of people and robots results in massive inefficiency in producing goods and services.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We enhance human capability by designing machine intelligence that enables robots to work alongside humans as highly effective teammates. Our vision is to harness the relative strengths of humans and robots to accomplish what neither can do alone.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our lab is directed by [Prof. Julie Shah](https://interactive.mit.edu/about/people/julie-shah/) in the Department of [Aeronautics and Astronautics](http://aeroastro.mit.edu/) and affiliated with the [Computer Science and Artificial Intelligence Laboratory](http://www.csail.mit.edu/).
